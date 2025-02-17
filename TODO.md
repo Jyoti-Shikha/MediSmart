@@ -1,0 +1,2 @@
+- Persistent Login
+- Increase Stack Limit
